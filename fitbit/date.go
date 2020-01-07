@@ -1,6 +1,6 @@
 // Returns dates that are 30 days apart
 // Date sets will be used
-package main
+package fitbit
 
 import (
 	"fmt"
